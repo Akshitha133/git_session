@@ -1,2 +1,3 @@
 hi an file1 for GITHUB session
 click on create file and give name of the file next give data into the file and commit changes
+editing file in first branch and pushing into main branch
